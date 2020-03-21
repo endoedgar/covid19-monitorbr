@@ -1,0 +1,278 @@
+[
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631f68" },
+    "ibge": 3505708,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631f78" },
+    "ibge": 3509502,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631f8b" },
+    "ibge": 3510609,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631f91" },
+    "ibge": 3513009,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631fa7" },
+    "ibge": 3515707,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631fb2" },
+    "ibge": 3518800,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631fc0" },
+    "ibge": 3519071,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631fed" },
+    "ibge": 3524709,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631ff0" },
+    "ibge": 3529401,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e631ff9" },
+    "ibge": 3530607,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e632002" },
+    "ibge": 3534401,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e63200d" },
+    "ibge": 3547304,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e632037" },
+    "ibge": 3547809,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e632046" },
+    "ibge": 3548708,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e632049" },
+    "ibge": 3548807,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e63205a" },
+    "ibge": 3549805,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e632062" },
+    "ibge": 3549904,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e63206f" },
+    "ibge": 3550308,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 358,
+        "deaths": 9,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e63207d" },
+    "ibge": 3552502,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e632081" },
+    "ibge": 3554102,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7640f1737acab01e632085" },
+    "ibge": 0,
+    "dates": {
+      "2020-03-21": {
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": null,
+        "suspect": null
+      }
+    }
+  },
+  {
+    "_id": { "$oid": "5e7642d3737acab01e637cdc" },
+    "misc": 1,
+    "dates": {
+      "2020-03-21": {
+        "TOTAL": { "n": "TOTAL", "c": 396, "o": 9 },
+        "Total de Casos confirmados": {
+          "n": "Total de Casos confirmados",
+          "c": 396,
+          "o": { "$numberDouble": "NaN" }
+        },
+        "Total de casos suspeitos": {
+          "n": "Total de casos suspeitos",
+          "c": 9023,
+          "o": { "$numberDouble": "NaN" }
+        },
+        "Total de óbitos": {
+          "n": "Total de óbitos",
+          "c": 9,
+          "o": { "$numberDouble": "NaN" }
+        }
+      }
+    }
+  }
+]
