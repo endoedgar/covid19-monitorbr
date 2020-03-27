@@ -1,0 +1,25 @@
+{
+  "warning": {
+    "title": "Atenção",
+    "content": "<p>Os dados aqui disponíveis estão em constante atualização.</p>\n\n<p>A <a href='https://brasil.io/home' target='__blank'>Brasil.IO</a>, a fonte dos dados deste app lembra que:</p>\n<ul>\n<li>\nAs contagens estaduais podem ser diferentes das municipais, por dois\nmotivos:\n<ul>\n<li>\nSecretaria estadual parou de divulgar dados por município e está\nsomente divulgando por estado (isso está acontecendo com SP);\n</li>\n<li>Secretaria estadual divulgou errado (às vezes acontece).</li>\n</ul>\n</li>\n\n<li>\nNem sempre nossos dados baterão com os do Ministério da Saúde, pois pode\nser que nossa coleta seja feita depois da coleta do Ministério e, com\nisso, teremos dados mais atuais.\n</li>\n</ul>",
+    "okay": "Entendi"
+  },
+  "map": {
+    "maplabel": "Modo de Mapa",
+    "citytotal": "Municipal / Total",
+    "statetotal": "Estadual / Total",
+    "citydaily": "Municipal / Dia",
+    "statedaily": "Estadual / Dia",
+    "info": "Monitor COVID-19 - Brasil<br />\nConfirmados: {{ totalConfirmed }} Mortes:\n<b style='color: red'>{{ totalDeath }} </b>\n<a href='#' (click)='abreAvisoInicial(true)'>(obs)</a><br />\nÚltima atualização: {{ ultimaAtualizacao$ }}<br />\nFonte:\n<a href='https://github.com/turicas/covid19-br'\n>Secretarias de Saúde<br />das Unidades Federativas, dados<br />tratados\npor Álvaro Justen/Brasil.IO</a\n><br />\nDesenvolvido por\n<a href='https://github.com/endoedgar'>Edgar Endo Junior</a>",
+    "tooltip": "<h2>{{ regionName }}</h2>\nConfirmados: {{ regionConfirmed }}<br/>\nMortos: {{ regionDeaths }} <br/>\nÚltima atualização: <b style='color: red'>{{ lastUpdate }}</b>",
+    "simplePopup": "<h1>{{ regionName }}</h1>Confirmados: <b>0</b>",
+    "completePopup": "<h1>{{regionName}}</h1>\nConfirmados: <b>{{regionConfirmed}}</b><br/>\nMortes: <b style='color: red;'>{{regionDeaths}}</b><br/>\n<div style='margin-left:10px;'><canvas style='clear:both; \nposition: relative;' id='{{divCanvasId}}'></canvas>Última atualização: <b style='color: red'>{{ lastUpdate }}</b></div>",
+    "dataLoaded": "Carregado! (Última atualização: {{ lastUpdate}})"
+  },
+  "regionlist": {
+    "name": "Nome",
+    "confirmed": "Confirmados",
+    "deaths": "Mortes",
+    "search": "Pesquisar"
+  }
+}

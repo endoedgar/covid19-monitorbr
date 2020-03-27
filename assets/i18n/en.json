@@ -1,0 +1,26 @@
+{
+    "warning": {
+      "title": "Important",
+      "content": "<p>The data available here are in constant updates</p>\n\n<p><a href='https://brasil.io/home' target='__blank'>Brasil.IO</a>, this app's datasource reminds you that:</p>\n<ul>\n<li>\nThe state numbers can be different from city ones for two reasons:\n<ul>\n<li>\nState healthcare department stopped disclosing data by city and are\nonly disclosing data by state (this is happening in SP);\n</li>\n<li>State healthcare department disclosed wrong numbers (this sometimes happens).</li>\n</ul>\n</li>\n\n<li>\nOur data will not always match Ministry of Health because it may be that\nour collection be done after the Ministry collection and, with that, we have the most recent data.\n</li>\n</ul>",
+      "okay": "I Understood"
+    },
+    "map": {
+      "maplabel": "Map Mode",
+      "citytotal": "City / Accumulated",
+      "statetotal": "State / Accumulated",
+      "citydaily": "City / Daily",
+      "statedaily": "State / Daily",
+      "info": "Monitor COVID-19 - Brazil<br />\nConfirmed: {{ totalConfirmed }} Deaths:\n<b style='color: red'>{{ totalDeath }} </b>\n<a href='#' (click)='abreAvisoInicial(true)'>(obs)</a><br />\nLast Updated: {{ ultimaAtualizacao$ }}<br />\nSource:\n<a href='https://github.com/turicas/covid19-br'\n>State Health Secretariats, data <br/>handled by \npor Álvaro Justen/Brasil.IO</a\n><br />\nCoded by\n<a href='https://github.com/endoedgar'>Edgar Endo Junior</a>",
+      "tooltip": "<h2>{{ regionName }}</h2>\nConfirmed: {{ regionConfirmed }}<br/>\nDeaths: {{ regionDeaths }} <br/>\nLast Updated: <b style='color: red'>{{ lastUpdate }}</b>",
+      "simplePopup": "<h1>{{ regionName }}</h1>Confirmed: <b>0</b>",
+      "completePopup": "<h1>{{regionName}}</h1>\nConfirmed: <b>{{regionConfirmed}}</b><br/>\nDeaths: <b style='color: red;'>{{regionDeaths}}</b><br/>\n<div style='margin-left:10px;'><canvas style='clear:both; \nposition: relative;' id='{{divCanvasId}}'></canvas>Last Updated: <b style='color: red'>{{ lastUpdate }}</b></div>",
+      "dataLoaded": "Data Loaded! (Last Updated: {{ lastUpdate}})"
+    },
+    "regionlist": {
+      "name": "Name",
+      "confirmed": "Confirmed",
+      "deaths": "Deaths",
+      "search": "Search"
+    }
+  }
+  
