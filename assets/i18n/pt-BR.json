@@ -6,8 +6,8 @@
   },
   "map": {
     "maplabel": "Modo de Mapa",
-    "citytotal": "Municipal / Total",
-    "statetotal": "Estadual / Total",
+    "citytotal": "Municipal / Acumulado",
+    "statetotal": "Estadual / Acumulado",
     "citydaily": "Municipal / Dia",
     "statedaily": "Estadual / Dia",
     "info": "Monitor COVID-19 - Brasil<br />\nConfirmados: {{ totalConfirmed }} Mortes:\n<b style='color: red'>{{ totalDeath }} </b>\n<a href='#' (click)='abreAvisoInicial(true)'>(obs)</a><br />\nÚltima atualização: {{ ultimaAtualizacao$ }}<br />\nFonte:\n<a href='https://github.com/turicas/covid19-br'\n>Secretarias de Saúde<br />das Unidades Federativas, dados<br />tratados\npor Álvaro Justen/Brasil.IO</a\n><br />\nDesenvolvido por\n<a href='https://github.com/endoedgar'>Edgar Endo Junior</a>",
