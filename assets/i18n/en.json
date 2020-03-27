@@ -10,11 +10,14 @@
       "statetotal": "State / Accumulated",
       "citydaily": "City / Daily",
       "statedaily": "State / Daily",
-      "info": "Monitor COVID-19 - Brazil<br />\nConfirmed: {{ totalConfirmed }} Deaths:\n<b style='color: red'>{{ totalDeath }} </b>\n<a href='#' (click)='abreAvisoInicial(true)'>(obs)</a><br />\nLast Updated: {{ ultimaAtualizacao$ }}<br />\nSource:\n<a href='https://github.com/turicas/covid19-br'\n>State Health Secretariats, data <br/>handled by \npor Álvaro Justen/Brasil.IO</a\n><br />\nCoded by\n<a href='https://github.com/endoedgar'>Edgar Endo Junior</a>",
+      "title": "Monitor COVID-19 - Brazil",
+      "aftertitle": "Confirmed: {{ totalConfirmed }} Deaths:\n<b style='color: red'>{{ totalDeath }}</b> ",
+      "lastUpdated": "Last Updated: {{ ultimaAtualizacao$ }}", 
+      "info": "Source:\n<a href='https://github.com/turicas/covid19-br'\n>State Health Secretariats, data <br/>handled by \nÁlvaro Justen/Brasil.IO</a\n><br />\nCoded by\n<a href='https://github.com/endoedgar'>Edgar Endo Junior</a>",
       "tooltip": "<h2>{{ regionName }}</h2>\nConfirmed: {{ regionConfirmed }}<br/>\nDeaths: {{ regionDeaths }} <br/>\nLast Updated: <b style='color: red'>{{ lastUpdate }}</b>",
       "simplePopup": "<h1>{{ regionName }}</h1>Confirmed: <b>0</b>",
       "completePopup": "<h1>{{regionName}}</h1>\nConfirmed: <b>{{regionConfirmed}}</b><br/>\nDeaths: <b style='color: red;'>{{regionDeaths}}</b><br/>\n<div style='margin-left:10px;'><canvas style='clear:both; \nposition: relative;' id='{{divCanvasId}}'></canvas>Last Updated: <b style='color: red'>{{ lastUpdate }}</b></div>",
-      "dataLoaded": "Data Loaded! (Last Updated: {{ lastUpdate}})"
+      "dataLoaded": "Data Loaded! (Last Updated: {{ lastUpdate }})"
     },
     "regionlist": {
       "name": "Name",
