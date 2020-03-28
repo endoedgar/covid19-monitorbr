@@ -16,8 +16,6 @@
     "lastUpdated": "Última atualização: {{ ultimaAtualizacao$ }}", 
     "info": "Fonte:\n<a href='https://github.com/turicas/covid19-br'\n>Secretarias de Saúde<br />das Unidades Federativas, dados<br />tratados\npor Álvaro Justen/Brasil.IO</a\n><br />\nDesenvolvido por\n<a href='https://github.com/endoedgar'>Edgar Endo Junior</a>",
     "tooltip": "<h2>{{ regionName }}</h2>\nConfirmados: {{ regionConfirmed }}<br/>\nMortos: {{ regionDeaths }} <br/>\nÚltima atualização: <b style='color: red'>{{ lastUpdate }}</b>",
-    "simplePopup": "<h1>{{ regionName }}</h1>Confirmados: <b>0</b>",
-    "completePopup": "<h1>{{regionName}}</h1>\nConfirmados: <b>{{regionConfirmed}}</b><br/>\nMortes: <b style='color: red;'>{{regionDeaths}}</b><br/>\n<div style='margin-left:10px;'><canvas style='clear:both; \nposition: relative;' id='{{divCanvasId}}'></canvas>Última atualização: <b style='color: red'>{{ lastUpdate }}</b></div>",
     "dataLoaded": "Carregado! (Última atualização: {{ lastUpdate }})"
   },
   "regionlist": {
