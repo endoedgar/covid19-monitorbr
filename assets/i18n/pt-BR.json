@@ -18,7 +18,7 @@
     "tooltip": "<h2>{{ regionName }}</h2>\nConfirmados: {{ regionConfirmed }}<br/>\nMortos: {{ regionDeaths }} <br/>\nÚltima atualização: <b style='color: red'>{{ lastUpdate }}</b>",
     "simplePopup": "<h1>{{ regionName }}</h1>Confirmados: <b>0</b>",
     "completePopup": "<h1>{{regionName}}</h1>\nConfirmados: <b>{{regionConfirmed}}</b><br/>\nMortes: <b style='color: red;'>{{regionDeaths}}</b><br/>\n<div style='margin-left:10px;'><canvas style='clear:both; \nposition: relative;' id='{{divCanvasId}}'></canvas>Última atualização: <b style='color: red'>{{ lastUpdate }}</b></div>",
-    "dataLoaded": "Carregado! (Última atualização: {{ lastUpdate}})"
+    "dataLoaded": "Carregado! (Última atualização: {{ lastUpdate }})"
   },
   "regionlist": {
     "name": "Nome",
