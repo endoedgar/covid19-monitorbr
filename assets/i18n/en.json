@@ -5,6 +5,7 @@
       "okay": "I Understood"
     },
     "map": {
+      "date": "Date",
       "maplabel": "Map Mode",
       "citytotal": "City / Accumulated",
       "statetotal": "State / Accumulated",
