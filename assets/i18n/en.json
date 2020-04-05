@@ -1,8 +1,8 @@
 {
     "warning": {
       "title": "Important",
-      "content": "<p>The data available here are in constant updates</p>\n\n<p><a href='https://brasil.io/home' target='__blank'>Brasil.IO</a>, this app's datasource reminds you that:</p>\n<ul>\n<li>\nThe state numbers can be different from city ones for two reasons:\n<ul>\n<li>\nState healthcare department stopped disclosing data by city and are\nonly disclosing data by state (this is happening in SP);\n</li>\n<li>State healthcare department disclosed wrong numbers (this sometimes happens).</li>\n</ul>\n</li>\n\n<li>\nOur data will not always match Ministry of Health because it may be that\nour collection be done after the Ministry collection and, with that, we have the most recent data.\n</li>\n</ul>",
-      "okay": "I Understand"
+      "content": "<p>The data available here are frequently updated.</p>\n\n<p><a href='https://brasil.io/home' target='__blank'>Brasil.IO</a>, this app's data source reminds you that:</p>\n<ul>\n<li>\nThe state numbers can be different from city ones for two reasons:\n<ul>\n<li>\nState healthcare department stopped disclosing data by city and are\nonly disclosing data by state (this is happening in SP);\n</li>\n<li>State healthcare department disclosed wrong numbers (this sometimes happens).</li>\n</ul>\n</li>\n\n<li>\nOur data will not always match Ministry of Health because it may be that\nour collection has been done after the Ministry collection. We have the most recent data.\n</li>\n</ul><p>Special thanks to Craig Shaw for helping with the translation.</p>",
+      "okay": "OK"
     },
     "map": {
       "date": "Date",
