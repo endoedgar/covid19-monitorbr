@@ -11,12 +11,14 @@
     "statetotal": "Estadual / Acumulado",
     "citydaily": "Municipal / Dia",
     "statedaily": "Estadual / Dia",
-    "title": "Monitor COVID-19 - Brasil",
+    "title": "Monitor COVID-19 - ",
     "aftertitle": "Confirmados: {{ totalConfirmed }} Mortes:\n<b style='color: red'>{{ totalDeath }} </b> ",
     "lastUpdated": "Última atualização: {{ ultimaAtualizacao$ }}", 
     "info": "Fonte:\n<a href='https://github.com/turicas/covid19-br'\n>Secretarias de Saúde<br />das Unidades Federativas, dados<br />tratados\npor Álvaro Justen/Brasil.IO</a\n><br />\nDesenvolvido por\n<a href='https://github.com/endoedgar'>Edgar Endo Junior</a>",
-    "tooltip": "<h2>{{ regionName }}</h2>\nConfirmados: {{ regionConfirmed }}<br/>\nMortos: {{ regionDeaths }} <br/>\nÚltima atualização: <b style='color: red'>{{ lastUpdate }}</b>",
-    "dataLoaded": "Carregado! (Última atualização: {{ lastUpdate }})"
+    "tooltip": "<h2>{{ regionName }}</h2>\nConfirmados: {{ regionConfirmed }}<br/>\nMortes: {{ regionDeaths }} <br/>\nÚltima atualização: <b style='color: red'>{{ lastUpdate }}</b>",
+    "dataLoaded": "Carregado! (Última atualização: {{ lastUpdate }})",
+    "selectState": "Selecione um estado:",
+    "brazil": "Brasil"
   },
   "regionlist": {
     "name": "Nome",
