@@ -11,6 +11,8 @@
       "statetotal": "State / Accumulated",
       "citydaily": "City / Daily",
       "statedaily": "State / Daily",
+      "citytotalper100k": "City / 100k population",
+      "statetotalper100k": "State / 100k population",
       "title": "Monitor COVID-19 - ",
       "aftertitle": "Confirmed: {{ totalConfirmed }} Deaths:\n<b style='color: red'>{{ totalDeath }}</b> ",
       "lastUpdated": "Last Updated: {{ ultimaAtualizacao$ }}", 

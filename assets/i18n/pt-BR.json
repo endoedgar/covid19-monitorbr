@@ -11,6 +11,8 @@
     "statetotal": "Estadual / Acumulado",
     "citydaily": "Municipal / Dia",
     "statedaily": "Estadual / Dia",
+    "citytotalper100k": "Municipal / Por 100 mil hab",
+    "statetotalper100k": "Estadual / Por 100 mil hab",
     "title": "Monitor COVID-19 - ",
     "aftertitle": "Confirmados: {{ totalConfirmed }} Mortes:\n<b style='color: red'>{{ totalDeath }} </b> ",
     "lastUpdated": "Última atualização: {{ ultimaAtualizacao$ }}", 

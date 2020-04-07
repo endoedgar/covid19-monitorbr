@@ -1,137 +1,170 @@
-[
-	{
+{
+	"BR": {
+		"codigo_uf": 0,
+		"uf": "BR",
+		"nome": "Brasil",
+		"populacao": 210147125
+	},
+	"RO": {
 		"codigo_uf" : 11,
 		"uf" : "RO",
-		"nome" : "Rondônia"
+		"nome" : "Rondônia",
+		"populacao": 1777225
 	},
-	{
+	"AC": {
 		"codigo_uf" : 12,
 		"uf" : "AC",
-		"nome" : "Acre"
+		"nome" : "Acre",
+		"populacao": 881935
 	},
-	{
+	"AM": {
 		"codigo_uf" : 13,
 		"uf" : "AM",
-		"nome" : "Amazonas"
+		"nome" : "Amazonas",
+		"populacao": 4144597
 	},
-	{
+	"RR": {
 		"codigo_uf" : 14,
 		"uf" : "RR",
-		"nome" : "Roraima"
+		"nome" : "Roraima",
+		"populacao": 605761
 	},
-	{
+	"PA": {
 		"codigo_uf" : 15,
 		"uf" : "PA",
-		"nome" : "Pará"
+		"nome" : "Pará",
+		"populacao": 8602865
 	},
-	{
+	"AP": {
 		"codigo_uf" : 16,
 		"uf" : "AP",
-		"nome" : "Amapá"
+		"nome" : "Amapá",
+		"populacao": 845731
 	},
-	{
+	"TO": {
 		"codigo_uf" : 17,
 		"uf" : "TO",
-		"nome" : "Tocantins"
+		"nome" : "Tocantins",
+		"populacao": 1572866
 	},
-	{
+	"MA": {
 		"codigo_uf" : 21,
 		"uf" : "MA",
-		"nome" : "Maranhão"
+		"nome" : "Maranhão",
+		"populacao": 7075181
 	},
-	{
+	"PI": {
 		"codigo_uf" : 22,
 		"uf" : "PI",
-		"nome" : "Piauí"
+		"nome" : "Piauí",
+		"populacao": 3273227
 	},
-	{
+	"CE": {
 		"codigo_uf" : 23,
 		"uf" : "CE",
-		"nome" : "Ceará"
+		"nome" : "Ceará",
+		"populacao": 9132078
 	},
-	{
+	"RN": {
 		"codigo_uf" : 24,
 		"uf" : "RN",
-		"nome" : "Rio Grande do Norte"
+		"nome" : "Rio Grande do Norte",
+		"populacao": 3506853
 	},
-	{
+	"PB": {
 		"codigo_uf" : 25,
 		"uf" : "PB",
-		"nome" : "Paraíba"
+		"nome" : "Paraíba",
+		"populacao": 4018127
 	},
-	{
+	"PE": {
 		"codigo_uf" : 26,
 		"uf" : "PE",
-		"nome" : "Pernambuco"
+		"nome" : "Pernambuco",
+		"populacao": 9557071
 	},
-	{
+	"AL": {
 		"codigo_uf" : 27,
 		"uf" : "AL",
-		"nome" : "Alagoas"
+		"nome" : "Alagoas",
+		"populacao": 3337357
 	},
-	{
+	"SE": {
 		"codigo_uf" : 28,
 		"uf" : "SE",
-		"nome" : "Sergipe"
+		"nome" : "Sergipe",
+		"populacao": 2298696
 	},
-	{
+	"BA": {
 		"codigo_uf" : 29,
 		"uf" : "BA",
-		"nome" : "Bahia"
+		"nome" : "Bahia",
+		"populacao": 14873064
 	},
-	{
+	"MG": {
 		"codigo_uf" : 31,
 		"uf" : "MG",
-		"nome" : "Minas Gerais"
+		"nome" : "Minas Gerais",
+		"populacao": 21168791
 	},
-	{
+	"ES": {
 		"codigo_uf" : 32,
 		"uf" : "ES",
-		"nome" : "Espírito Santo"
+		"nome" : "Espírito Santo",
+		"populacao": 4018650
 	},
-	{
+	"RJ": {
 		"codigo_uf" : 33,
 		"uf" : "RJ",
-		"nome" : "Rio de Janeiro"
+		"nome" : "Rio de Janeiro",
+		"populacao": 17264943
 	},
-	{
+	"SP": {
 		"codigo_uf" : 35,
 		"uf" : "SP",
-		"nome" : "São Paulo"
+		"nome" : "São Paulo",
+		"populacao": 45919049
 	},
-	{
+	"PR": {
 		"codigo_uf" : 41,
 		"uf" : "PR",
-		"nome" : "Paraná"
+		"nome" : "Paraná",
+		"populacao": 11433957
 	},
-	{
+	"SC": {
 		"codigo_uf" : 42,
 		"uf" : "SC",
-		"nome" : "Santa Catarina"
+		"nome" : "Santa Catarina",
+		"populacao": 7164788
 	},
-	{
+	"RS": {
 		"codigo_uf" : 43,
 		"uf" : "RS",
-		"nome" : "Rio Grande do Sul"
+		"nome" : "Rio Grande do Sul",
+		"populacao": 11377239
 	},
-	{
+	"MS": {
 		"codigo_uf" : 50,
 		"uf" : "MS",
-		"nome" : "Mato Grosso do Sul"
+		"nome" : "Mato Grosso do Sul",
+		"populacao": 2778986
 	},
-	{
+	"MT": {
 		"codigo_uf" : 51,
 		"uf" : "MT",
-		"nome" : "Mato Grosso"
+		"nome" : "Mato Grosso",
+		"populacao": 3484466
 	},
-	{
+	"GO": {
 		"codigo_uf" : 52,
 		"uf" : "GO",
-		"nome" : "Goiás"
+		"nome" : "Goiás",
+		"populacao": 7018354
 	},
-	{
+	"DF": {
 		"codigo_uf" : 53,
 		"uf" : "DF",
-		"nome" : "Distrito Federal"
+		"nome" : "Distrito Federal",
+		"populacao": 3015268
 	}
-]
+}
